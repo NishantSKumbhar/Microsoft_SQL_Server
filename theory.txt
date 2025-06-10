@@ -1,0 +1,6 @@
+Structured Query Language (SQL) is a programming language for accessing and manipulating Relational Database Management Systems (RDBMSs).
+Data manipulation is the process of organizing or arranging data in order to make it easier to interpret. 
+SQL is widely used in popular RDBMSs such as SQL Server, Oracle, and MySQL.
+The smallest unit of execution in SQL is a query. A SQL query is used to select, update, and delete data.
+In RDBMSs, all the data is stored in tables, with each table consisting of rows and columns.
+Data integrity in SQL databases refers to ensuring that each row of a table is uniquely identified so that data can be retrieved separately.
